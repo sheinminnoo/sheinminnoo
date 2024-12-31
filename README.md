@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shein Minn Oo 👋
+- 💻 Junior Software Developer
+- 🚀 MERN Stack | TypeScript Enthusiast | Java
+- 🌍 Based in Bangkok, Thailand
 
-<!--
-**sheinminnoo/sheinminnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Key Skills
+- **Frontend**: React, Tailwind CSS, TypeScript
+- **Backend**: Node.js, Express, MongoDB
+- **Languages**: Java, JavaScript, TypeScript
 
-Here are some ideas to get you started:
+## TypeScript Projects
+- **Tempesgram**: A social media app (in progress) inspired by Telegram, built with MERN stack and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- [LinkedIn](https://linkedin.com/in/sheinminnoo)
+- [Email](mailto:sheinnminn515@gmail.com)
