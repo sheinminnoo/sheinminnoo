@@ -13,4 +13,7 @@
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/sheinminnoo)
-- [Email](mailto:sheinnminn515@gmail.com)
+- [Email](mailto:sheinnmin515@gmail.com)
+
+## About This Account
+- 🆕 This GitHub account was created in 2025.
